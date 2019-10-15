@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">video player</string>
+    <string name="wel">Welcome To Our Video Player</string>
+    <string name="defplay">Play Default</string>
+    <string name="videolist">Video list</string>
+    <string name="pause">pause</string>
+    <string name="play">play</string>
+    <string name="resume">resume</string>
+    <string name="replay">Replay</string>
+
+</resources>
